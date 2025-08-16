@@ -1,7 +1,7 @@
 {
   "name": "outil-de-revision-de-code",
   "version": "1.0.0",
-  "description": "Un outil simple pour automatiser les commentaires de code pendant les révisions de projet.",
+  "description": "A simple tool to automate code comments during project reviews.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"

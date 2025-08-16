@@ -1,0 +1,10 @@
+[
+  {
+    "check": "lambda code: 'TODO' not in code",
+    "comment": "Le code doit être exempt de TODO."
+  },
+  {
+    "check": "lambda code: code.count('print') <= 3",
+    "comment": "Évitez d'utiliser plusieurs déclarations print."
+  }
+]

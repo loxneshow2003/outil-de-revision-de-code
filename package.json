@@ -1,0 +1,13 @@
+{
+  "name": "outil-de-revision-de-code",
+  "version": "1.0.0",
+  "description": "Un outil simple pour automatiser les commentaires de code pendant les révisions de projet.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
